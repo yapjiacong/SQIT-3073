@@ -1,0 +1,4 @@
+cd C:\Users\yapji\OneDrive\Desktop\A231_SQIT3073\w2
+
+python strings.py 
+ 
