@@ -1,6 +1,6 @@
 # Calculator
 
-operator = input('Please insert an operator(add:+, subtract:- , multiple: * , divide: /)')
+operator = input('Please insert an operator(add:+, substract:- , multiple: * , divide: /)')
 num1 = float(input('Please insert a number:'))
 num2 = float(input('Please insert another number:'))
 
